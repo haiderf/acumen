@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+<defs><radialGradient id="glow" cx="30%" cy="40%" r="80%">
+<stop offset="0%" stop-color="#111A2E"/><stop offset="100%" stop-color="#0C1220"/></radialGradient></defs>
+<rect width="1280" height="640" fill="url(#glow)"/>
+<rect x="0.5" y="0.5" width="1279" height="639" fill="none" stroke="#26314B"/>
+
+  <circle cx="320" cy="320" r="190" fill="none" stroke="#C9A24B" stroke-width="2"/>
+  <circle cx="320" cy="320" r="176" fill="none" stroke="#8A7238" stroke-width="1"/>
+  <circle cx="320" cy="320" r="98.8" fill="none" stroke="#8A7238" stroke-width="1"/><text x="204.3" y="394.2" font-family="'Courier New', 'DejaVu Sans Mono', monospace" font-size="16.150000000000002" fill="#C9A24B" text-anchor="middle" transform="rotate(-122.7 204.3 394.2)">O</text>
+<text x="197.5" y="382.3" font-family="'Courier New', 'DejaVu Sans Mono', monospace" font-size="16.150000000000002" fill="#C9A24B" text-anchor="middle" transform="rotate(-117.0 197.5 382.3)">N</text>
+<text x="192.0" y="369.8" font-family="'Courier New', 'DejaVu Sans Mono', monospace" font-size="16.150000000000002" fill="#C9A24B" text-anchor="middle" transform="rotate(-111.3 192.0 369.8)">E</text>
+<text x="184.6" y="343.5" font-family="'Courier New', 'DejaVu Sans Mono', monospace" font-size="16.150000000000002" fill="#C9A24B" text-anchor="middle" transform="rotate(-99.9 184.6 343.5)">F</text>
+<text x="183.0" y="329.9" font-family="'Courier New', 'DejaVu Sans Mono', monospace" font-size="16.150000000000002" fill="#C9A24B" text-anchor="middle" transform="rotate(-94.1 183.0 329.9)">I</text>
+<text x="182.7" y="316.3" font-family="'Courier New', 'DejaVu Sans Mono', monospace" font-size="16.150000000000002" fill="#C9A24B" text-anchor="middle" transform="rotate(-88.4 182.7 316.3)">L</text>
+<text x="183.7" y="302.6" font-family="'Courier New', 'DejaVu Sans Mono', monospace" font-size="16.150000000000002" fill="#C9A24B" text-anchor="middle" transform="rotate(-82.7 183.7 302.6)">E</text>
+<text x="189.8" y="276.0" font-family="'Courier New', 'DejaVu Sans Mono', monospace" font-size="16.150000000000002" fill="#C9A24B" text-anchor="middle" transform="rotate(-71.3 189.8 276.0)">·</text>
+<text x="201.1" y="251.1" font-family="'Courier New', 'DejaVu Sans Mono', monospace" font-size="16.150000000000002" fill="#C9A24B" text-anchor="middle" transform="rotate(-59.9 201.1 251.1)">N</text>
+<text x="208.6" y="239.6" font-family="'Courier New', 'DejaVu Sans Mono', monospace" font-size="16.150000000000002" fill="#C9A24B" text-anchor="middle" transform="rotate(-54.2 208.6 239.6)">O</text>
+<text x="226.7" y="219.2" font-family="'Courier New', 'DejaVu Sans Mono', monospace" font-size="16.150000000000002" fill="#C9A24B" text-anchor="middle" transform="rotate(-42.8 226.7 219.2)">S</text>
+<text x="237.1" y="210.4" font-family="'Courier New', 'DejaVu Sans Mono', monospace" font-size="16.150000000000002" fill="#C9A24B" text-anchor="middle" transform="rotate(-37.1 237.1 210.4)">E</text>
+<text x="248.4" y="202.7" font-family="'Courier New', 'DejaVu Sans Mono', monospace" font-size="16.150000000000002" fill="#C9A24B" text-anchor="middle" transform="rotate(-31.4 248.4 202.7)">R</text>
+<text x="260.5" y="196.2" font-family="'Courier New', 'DejaVu Sans Mono', monospace" font-size="16.150000000000002" fill="#C9A24B" text-anchor="middle" transform="rotate(-25.7 260.5 196.2)">V</text>
+<text x="273.1" y="190.9" font-family="'Courier New', 'DejaVu Sans Mono', monospace" font-size="16.150000000000002" fill="#C9A24B" text-anchor="middle" transform="rotate(-20.0 273.1 190.9)">E</text>
+<text x="286.1" y="186.8" font-family="'Courier New', 'DejaVu Sans Mono', monospace" font-size="16.150000000000002" fill="#C9A24B" text-anchor="middle" transform="rotate(-14.3 286.1 186.8)">R</text>
+<text x="313.2" y="182.8" font-family="'Courier New', 'DejaVu Sans Mono', monospace" font-size="16.150000000000002" fill="#C9A24B" text-anchor="middle" transform="rotate(-2.9 313.2 182.8)">·</text>
+<text x="340.4" y="184.1" font-family="'Courier New', 'DejaVu Sans Mono', monospace" font-size="16.150000000000002" fill="#C9A24B" text-anchor="middle" transform="rotate(8.6 340.4 184.1)">Y</text>
+<text x="353.9" y="186.8" font-family="'Courier New', 'DejaVu Sans Mono', monospace" font-size="16.150000000000002" fill="#C9A24B" text-anchor="middle" transform="rotate(14.3 353.9 186.8)">O</text>
+<text x="366.9" y="190.9" font-family="'Courier New', 'DejaVu Sans Mono', monospace" font-size="16.150000000000002" fill="#C9A24B" text-anchor="middle" transform="rotate(20.0 366.9 190.9)">U</text>
+<text x="379.5" y="196.2" font-family="'Courier New', 'DejaVu Sans Mono', monospace" font-size="16.150000000000002" fill="#C9A24B" text-anchor="middle" transform="rotate(25.7 379.5 196.2)">R</text>
+<text x="402.9" y="210.4" font-family="'Courier New', 'DejaVu Sans Mono', monospace" font-size="16.150000000000002" fill="#C9A24B" text-anchor="middle" transform="rotate(37.1 402.9 210.4)">D</text>
+<text x="413.3" y="219.2" font-family="'Courier New', 'DejaVu Sans Mono', monospace" font-size="16.150000000000002" fill="#C9A24B" text-anchor="middle" transform="rotate(42.8 413.3 219.2)">A</text>
+<text x="422.9" y="229.0" font-family="'Courier New', 'DejaVu Sans Mono', monospace" font-size="16.150000000000002" fill="#C9A24B" text-anchor="middle" transform="rotate(48.5 422.9 229.0)">T</text>
+<text x="431.4" y="239.6" font-family="'Courier New', 'DejaVu Sans Mono', monospace" font-size="16.150000000000002" fill="#C9A24B" text-anchor="middle" transform="rotate(54.2 431.4 239.6)">A</text>
+<text x="445.1" y="263.3" font-family="'Courier New', 'DejaVu Sans Mono', monospace" font-size="16.150000000000002" fill="#C9A24B" text-anchor="middle" transform="rotate(65.6 445.1 263.3)">·</text>
+<text x="453.9" y="289.2" font-family="'Courier New', 'DejaVu Sans Mono', monospace" font-size="16.150000000000002" fill="#C9A24B" text-anchor="middle" transform="rotate(77.0 453.9 289.2)">Y</text>
+<text x="456.3" y="302.6" font-family="'Courier New', 'DejaVu Sans Mono', monospace" font-size="16.150000000000002" fill="#C9A24B" text-anchor="middle" transform="rotate(82.7 456.3 302.6)">O</text>
+<text x="457.3" y="316.3" font-family="'Courier New', 'DejaVu Sans Mono', monospace" font-size="16.150000000000002" fill="#C9A24B" text-anchor="middle" transform="rotate(88.4 457.3 316.3)">U</text>
+<text x="457.0" y="329.9" font-family="'Courier New', 'DejaVu Sans Mono', monospace" font-size="16.150000000000002" fill="#C9A24B" text-anchor="middle" transform="rotate(94.1 457.0 329.9)">R</text>
+<text x="452.4" y="356.9" font-family="'Courier New', 'DejaVu Sans Mono', monospace" font-size="16.150000000000002" fill="#C9A24B" text-anchor="middle" transform="rotate(105.6 452.4 356.9)">A</text>
+<text x="448.0" y="369.8" font-family="'Courier New', 'DejaVu Sans Mono', monospace" font-size="16.150000000000002" fill="#C9A24B" text-anchor="middle" transform="rotate(111.3 448.0 369.8)">I</text>
+<text x="435.7" y="394.2" font-family="'Courier New', 'DejaVu Sans Mono', monospace" font-size="16.150000000000002" fill="#C9A24B" text-anchor="middle" transform="rotate(122.7 435.7 394.2)">·</text><line x1="403.6" y1="320.0" x2="280.8" y2="393.8" stroke="#E8E2D4" stroke-width="8.549999999999999" stroke-linecap="round"/><line x1="361.8" y1="392.4" x2="236.5" y2="322.9" stroke="#E8E2D4" stroke-width="8.549999999999999" stroke-linecap="round"/><line x1="278.2" y1="392.4" x2="275.7" y2="249.1" stroke="#E8E2D4" stroke-width="8.549999999999999" stroke-linecap="round"/><line x1="236.4" y1="320.0" x2="359.2" y2="246.2" stroke="#E8E2D4" stroke-width="8.549999999999999" stroke-linecap="round"/><line x1="278.2" y1="247.6" x2="403.5" y2="317.1" stroke="#E8E2D4" stroke-width="8.549999999999999" stroke-linecap="round"/><line x1="361.8" y1="247.6" x2="364.3" y2="390.9" stroke="#E8E2D4" stroke-width="8.549999999999999" stroke-linecap="round"/><circle cx="320" cy="320" r="83.6" fill="none" stroke="#C9A24B" stroke-width="5.7"/>
+<line x1="600" y1="140" x2="600" y2="500" stroke="#26314B" stroke-width="1"/>
+<text x="650" y="225" font-family="Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-size="64" fill="#E8E2D4">Acumen</text>
+<text x="650" y="275" font-family="Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-size="26" font-style="italic" fill="#C9A24B">AI photo culling, judged by the masters</text>
+<text x="650" y="330" font-family="'Segoe UI', 'DejaVu Sans', sans-serif" font-size="19" fill="#B7B0A0">Classifies 15 genres and scores each photo against its</text>
+<text x="650" y="364" font-family="'Segoe UI', 'DejaVu Sans', sans-serif" font-size="19" fill="#B7B0A0">genre's mastery standard — Adams, Cartier-Bresson, Karsh —</text>
+<text x="650" y="398" font-family="'Segoe UI', 'DejaVu Sans', sans-serif" font-size="19" fill="#B7B0A0">then culls thousands down to a competition-worthy set.</text>
+<text x="650" y="470" font-family="'Courier New', 'DejaVu Sans Mono', monospace" font-size="16" fill="#7A93D8">single-file HTML · local Ollama · every formula documented</text>
+</svg>
