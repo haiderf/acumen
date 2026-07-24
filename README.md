@@ -10,7 +10,7 @@ McCurry; a still life against Weston's Pepper No. 30. Fifteen genres, each
 with its own legend-anchored rubric — and an explicit anti-mimicry guard so the
 AI rewards principles, never black-and-white nostalgia or imitation of a
 famous look.
-> ▶ **Try it live:** *(enable GitHub Pages, then link the file here)*
+> ▶ **Try it live:** https://haiderf.github.io/acumen/Acumen_v3.2.html
 > Or download `Acumen_v3.2.html`, open it in Chrome/Edge, and point it at a folder.
 How it works
 ```
