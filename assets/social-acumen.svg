@@ -42,8 +42,10 @@
 <line x1="600" y1="140" x2="600" y2="500" stroke="#26314B" stroke-width="1"/>
 <text x="650" y="225" font-family="Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-size="64" fill="#E8E2D4">Acumen</text>
 <text x="650" y="275" font-family="Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-size="26" font-style="italic" fill="#C9A24B">AI photo culling, judged by the masters</text>
-<text x="650" y="330" font-family="'Segoe UI', 'DejaVu Sans', sans-serif" font-size="19" fill="#B7B0A0">Classifies 15 genres and scores each photo against its</text>
-<text x="650" y="364" font-family="'Segoe UI', 'DejaVu Sans', sans-serif" font-size="19" fill="#B7B0A0">genre's mastery standard — Adams, Cartier-Bresson, Karsh —</text>
-<text x="650" y="398" font-family="'Segoe UI', 'DejaVu Sans', sans-serif" font-size="19" fill="#B7B0A0">then culls thousands down to a competition-worthy set.</text>
-<text x="650" y="470" font-family="'Courier New', 'DejaVu Sans Mono', monospace" font-size="16" fill="#7A93D8">single-file HTML · local Ollama · every formula documented</text>
+<text x="650" y="326" font-family="'Segoe UI', 'DejaVu Sans', sans-serif" font-size="19" fill="#B7B0A0">Classifies 15 genres and scores each photo against its</text>
+<text x="650" y="358" font-family="'Segoe UI', 'DejaVu Sans', sans-serif" font-size="19" fill="#B7B0A0">genre's mastery standard — Adams, Cartier-Bresson, Karsh —</text>
+<text x="650" y="390" font-family="'Segoe UI', 'DejaVu Sans', sans-serif" font-size="19" fill="#B7B0A0">then culls thousands down to a competition-worthy set,</text>
+<text x="650" y="422" font-family="'Segoe UI', 'DejaVu Sans', sans-serif" font-size="19" fill="#B7B0A0">captioned, narrated and packaged for the album.</text>
+<text x="650" y="470" font-family="'Courier New', 'DejaVu Sans Mono', monospace" font-size="16" fill="#7A93D8">single-file HTML · local Ollama · CLIP second opinion</text>
+<text x="650" y="494" font-family="'Courier New', 'DejaVu Sans Mono', monospace" font-size="16" fill="#7A93D8">every formula documented · album-ready export</text>
 </svg>
